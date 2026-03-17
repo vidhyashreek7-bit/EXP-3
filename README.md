@@ -44,6 +44,8 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+[beee3.pdf](https://github.com/user-attachments/files/26047602/beee3.pdf)
+
 Tabulation:2
 
 RESULT:
